@@ -1,6 +1,9 @@
-body {background-color: #FAF0E6;}
-h1 {font-family: "Serif"; color: #B0C4DE;
-Text-transform: Uppercase;}
-h2 {font-family:"Serif"; color: #191970}
+body {background-color: #FFF0F5;}
+h1 {font-family: Monaco; color: #B0C4DE;
+text-transform: uppercase;}
+ul {font-family: Monaco; color:#B0C4DE}
+h2 {font-family: Monaco; color: #D8BFD8}
+ol {font-family: Monaco; color:#B0C4DE}
 h3 {font-family: "Serif"; color: #4682B4}
-p1 {Margin: 70Px;}
+p {font-family: Monaco; color:#FFB6C1}
+p {Margin: 70Px;}
