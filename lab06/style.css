@@ -32,9 +32,3 @@ a:hover{color:#D8BFD8;}
     div{display: block;}
 body {background-color: azure;}
 }
-table {border: 3px solid black; border-spacing: 0;
-width:30%; margin:auto; margin-top: 35px; font-family: "Verdana", "Geneva", "sans-serif";}
-td,th {border-bottom: 1px solid black; margin:0px; padding:4px}
-.nutrition {font-size: 50px;}
-tr:nth-child(even) {background-color: white;}
-tr:nth-child(odd) {background-color: pink; }
