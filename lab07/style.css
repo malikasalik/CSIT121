@@ -38,3 +38,6 @@ td,th {border-bottom: 1px solid black; margin:0px; padding:4px}
 .nutrition {font-size: 50px;}
 tr:nth-child(even) {background-color: white;}
 tr:nth-child(odd) {background-color: pink; }
+.melon {
+  padding-left: 15px;
+}
