@@ -1,6 +1,6 @@
 body {background-color: #FFF0F5;}
     h1 {font-family: Monaco; color: #B0C4DE;
-    text-align: center; font-size:xx-large; font-weight: bold;
+    text-align: center; font-size: 2rem; font-weight: bold;
     text-transform: uppercase;}
     ul {font-family: Monaco; color:#B0C4DE;}
     h2 {font-family: Monaco; color: #D8BFD8;
@@ -18,13 +18,13 @@ body {background-color: #FFF0F5;}
        margin: auto;
     }
 div{display: flex;
-width: 100%;
-height: 100%;}
+width: 100%;}
 #Ingredients {width: 50%;}
 #recipe {width: 50%;}
 .hi {display: flex; flex-direction: column; border: 2px solid palevioletred; margin: 15px; padding: 15px; }
-.idek {border: 2px solid palevioletred; margin: 15px; height: 100%; padding: 15px}
-.long {padding-bottom: 375px;}
+.idek {border: 2px solid palevioletred; margin: 15px; padding: 15px}
+.long {padding-bottom: 697px;}
 a {color: #B0C4DE;}
 a:visited{color:paleturquoise;}
 a:hover{color:#D8BFD8;}
+.long {padding-bottom: 697px;}
