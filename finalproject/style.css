@@ -1,0 +1,21 @@
+section {
+  display: flex; flex-direction: column-reverse;
+  justify-content: space-between;
+background: beige;}
+h1 {
+  text-align: center;
+  margin: auto;
+}
+.title {
+  justify-content: center;
+}
+a {color: teal; text-decoration: none; display:block; width: 25%;} 
+a:hover {color: black;}
+.menu {margin: 10px; line-height: 50px; 
+display:flex; text-align: center;}
+#current {background-color: aquamarine;}
+.images {display: flex; flex-wrap: wrap;
+justify-content: center;}
+.butterfly {margin: 3px; 
+background-color: blanchedalmond;
+padding: 20px; text-align: center;}
