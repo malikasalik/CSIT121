@@ -74,3 +74,15 @@ form {
   p {text-align: center;
   width: 100%; 
   font-size: 25px;}
+.size {
+  font-size: 50px;
+}
+tr:nth-child(even) {
+  background-color: #FFF4FD ;
+}
+tr:nth-child(odd) {
+  background-color: white;
+}
+th {color:#DCCAD9  ;}
+table {font-size: 30px;
+text-align: center;}
